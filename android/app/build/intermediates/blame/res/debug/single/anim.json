@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\c3e99c2f32757cb90dfc441c9a0bae9ab437bbad\\output\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\727c761a9960f010f3684c287fc267c905cdbde9\\output\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\727c761a9960f010f3684c287fc267c905cdbde9\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\727c761a9960f010f3684c287fc267c905cdbde9\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\727c761a9960f010f3684c287fc267c905cdbde9\\output\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\727c761a9960f010f3684c287fc267c905cdbde9\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\727c761a9960f010f3684c287fc267c905cdbde9\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\c3e99c2f32757cb90dfc441c9a0bae9ab437bbad\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\c3e99c2f32757cb90dfc441c9a0bae9ab437bbad\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\c3e99c2f32757cb90dfc441c9a0bae9ab437bbad\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\c3e99c2f32757cb90dfc441c9a0bae9ab437bbad\\output\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\kuangjia\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\d0dfe50beca235dc8e9bc9f1cea2d88a1becf6cc\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\react\\xunni\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\smile\\.android\\build-cache\\c3e99c2f32757cb90dfc441c9a0bae9ab437bbad\\output\\res\\anim\\catalyst_push_up_out.xml"
+    }
+]

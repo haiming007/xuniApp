@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\kuangjia\xunni\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aca63470d0d931ca697935064cf1585a33a10c9a">
+        <dex dex="E:\kuangjia\xunni\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9fa7c05ed32ec7b44ee607f42ad7ed8766c25be7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smile\.android\build-cache\727c761a9960f010f3684c287fc267c905cdbde9\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\kuangjia\xunni\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-4.0_8eb8e3819338d7e26345c69d1034f9aa25899563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smile\.android\build-cache\727c761a9960f010f3684c287fc267c905cdbde9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9dfdc1614e402edaf52eaa5e5d8d38ac6f12cf0e">
+        <dex dex="E:\kuangjia\xunni\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aad9768e7243bdfe12410a6c338d0c080530bc65\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smile\.android\build-cache\727c761a9960f010f3684c287fc267c905cdbde9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9dfdc1614e402edaf52eaa5e5d8d38ac6f12cf0e">
+        <dex dex="E:\kuangjia\xunni\android\app\build\intermediates\pre-dexed\debug\classes_aad9768e7243bdfe12410a6c338d0c080530bc65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\kuangjia\xunni\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\kuangjia\xunni\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d1621a15a7815424858cce033bf203bdeeb9783b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smile\.android\build-cache\727c761a9960f010f3684c287fc267c905cdbde9\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\kuangjia\xunni\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8eb8e3819338d7e26345c69d1034f9aa25899563.jar" />
+    </item>
+
+</items>
